@@ -17,9 +17,9 @@ https://code.visualstudio.com/download
 <img src="https://github.com/Muditamehan/Mental-Health-Awareness-Site/assets/119404912/f84f63f7-abef-4ff6-83f4-a50781d9ea76" height = "450" width ="1000">
 
 ### Step 2 ->
-<img src="https://github.com/Muditamehan/Mental-Health-Awareness-Site/assets/119404912/d333fedb-f166-4cb6-bc42-1ee94100233a" height = "350" width = "400" >
+<img src="https://github.com/Muditamehan/Mental-Health-Awareness-Site/assets/119404912/d333fedb-f166-4cb6-bc42-1ee94100233a" height = "350" width = "425" >
 &nbsp; &nbsp;
-<img src="https://github.com/Muditamehan/Mental-Health-Awareness-Site/assets/119404912/27ac1c1e-d414-4737-afd4-8f82f8285ca4" height = "350" width = "400" >
+<img src="https://github.com/Muditamehan/Mental-Health-Awareness-Site/assets/119404912/27ac1c1e-d414-4737-afd4-8f82f8285ca4" height = "350" width = "425" >
 
 ### Step 3 ->
 <img src="https://github.com/Muditamehan/Mental-Health-Awareness-Site/assets/119404912/b9f22a4e-e5c9-44a3-84e7-a1f7e27e6102" height = "450" width ="1000">
